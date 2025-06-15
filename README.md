@@ -31,7 +31,7 @@ A scalable, AI-powered legal simulation platform that enables users (lawyers) to
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/raghulajithn/CourtSim
+   git clone https://github.com/raghulajithn/CourtSim.git
    cd CourtSim
    ```
 
