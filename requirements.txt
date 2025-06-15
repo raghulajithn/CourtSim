@@ -1,0 +1,16 @@
+crewai
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+google-generativeai
+google-ai-generativelanguage
+chromadb
+python-dotenv
+fastapi
+streamlit
+uvicorn
+pymupdf
+python-docx
+tiktoken
